@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java. The `Bug.java` file contains a for loop that iterates one element beyond the array's valid indices. The `BugSolution.java` demonstrates the corrected code.
